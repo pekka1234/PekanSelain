@@ -9,6 +9,8 @@ Voit kirjoittaa sen jälkeen uuden osoitteen ja niin edellee.
 
 ## Hyödyt
 Super nopea, moninkertaisesti nopeampi kuin esimerkiksi firefox tai chrome
+
 Helppo käyttää
+
 Vie vähän tilaa ja muistia
 
