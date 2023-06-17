@@ -1,5 +1,5 @@
 # PekanSelain
-Yksinkertainen internet selain
+Super nopea ja helppokäyttöinen internet selain
 ## Käyttö
 Kirjoita avautuvaan kentään sivun osoite, esimerkiksi https://gnu.org
 
