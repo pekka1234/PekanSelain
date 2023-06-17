@@ -1,6 +1,6 @@
 # PekanSelain
 Yksinkertainen internet selain
-##Käyttö
+## Käyttö
 Kirjoita avautuvaan kentään sivun osoite, esimerkiksi https://gnu.org
 
 Sitten paina "Avaa"
