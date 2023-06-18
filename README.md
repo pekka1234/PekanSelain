@@ -11,7 +11,7 @@ Sitten paina "Avaa"
 
 Voit kirjoittaa sen jälkeen kirjoittaa tai kopioida alta uuden osoitteen ja niin edelleen.
 
-Huomio: Linkkien kopioiminen ja liittäminen alalaatikista (Cltr + C ja Cltr + V) on välillä haastavaa, kannattaa kokeilla erilaisia klikkailuja ja maalauksia ja niiden yhdistelmiä
+Huomio: Linkkien kopioiminen ja liittäminen alalaatikosta (Cltr + C ja Cltr + V) on välillä haastavaa, kannattaa kokeilla erilaisia klikkailuja ja maalauksia ja niiden yhdistelmiä
 
 ## Hyödyt
 Super nopea, moninkertaisesti nopeampi kuin esimerkiksi firefox tai chrome
