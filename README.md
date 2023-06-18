@@ -16,3 +16,6 @@ Helppo käyttää
 
 Vie vähän tilaa ja muistia
 
+## Esimerkki
+
+![Screenshot from 2023-06-18 12-59-55](https://github.com/pekka1234/PekanSelain/assets/62663286/3f7dd778-2094-422c-949e-80dcb03102ae)
