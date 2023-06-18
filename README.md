@@ -1,6 +1,7 @@
 # PekanSelain
 Super nopea ja helppokäyttöinen internet selain
-![Screenshot from 2023-06-18 12-59-55](https://github.com/pekka1234/PekanSelain/assets/62663286/3f7dd778-2094-422c-949e-80dcb03102ae)
+
+![Screenshot from 2023-06-18 17-12-35](https://github.com/pekka1234/PekanSelain/assets/62663286/55546b74-6125-41fb-b0b2-cf1c2ba51728)
 
 ## Käyttö
 Huomio: **tkinterhtml** ja **beautifulsoup** ja **urllib** moduuleja ei ole yleensä esiasennettu, joten: pip install... (Tiedostossa ModuuliVersiot on oikeat versiot kaikille moduuleille)
