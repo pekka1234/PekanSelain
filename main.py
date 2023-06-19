@@ -3,6 +3,7 @@ from tkinterhtml import HtmlFrame
 from tkinter import *
 import tkinter as tk
 from bs4 import BeautifulSoup
+# Kaksi alempaa riviä voi poistaa, jollei cxfreezen avulla tee tästä standalone binääriä
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
@@ -18,7 +19,7 @@ label = Label(root, text="Pekan selain", font=("Courier 22 bold"))
 label.pack()
 
 # Osoitteen syöttökenttä
-entry = Entry(root, width= 40)
+entry = Entry(root, width= 40, font="Calibri 15")
 entry.focus_set()
 entry.pack()
 
