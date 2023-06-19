@@ -20,6 +20,3 @@ Super nopea, moninkertaisesti nopeampi kuin esimerkiksi firefox tai chrome
 Helppo käyttää
 
 Vie vähän tilaa ja muistia
-
-## StandALoneBinary
-Jos haluat muuttaa tämän python ohjelman standalone binääriksi (esimerkiki .exe) niin suorita se tiedosto cxfreezellä. Normi main.py ei toimi silloin. Tällöin voi siis suorittaa tätä ohjelmaa ilman pythonia tai moduuleja
