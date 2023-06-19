@@ -33,6 +33,12 @@ def internet(kw):
     global k
     # Osoitteen hakeminen
     string = entry.get()
+    ns = ""
+    # Suodatetaan kopioidessa tullett kaksi valkoista neliötä (ja myös muut roskat)
+    for x in string:
+        if x in "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz$-_.+!*#'()/&?=:%1234567890":
+            ns += x
+    string = ns        
     # Poistetaan aikaisempi sivu
     frame.destroy()
     # Uuden sivun luonti ja internettiin yhdistäminen sivun html:n hakemista varten
