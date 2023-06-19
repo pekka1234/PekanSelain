@@ -3,6 +3,8 @@ from tkinterhtml import HtmlFrame
 from tkinter import *
 import tkinter as tk
 from bs4 import BeautifulSoup
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
 
 # Edellisen sivun vaihto
 es = []
@@ -59,7 +61,7 @@ def internet(kw):
     # Koko seuraava osio on: Linkkien haku, eli etsitään beaoutiful soupin avulla kaikki linkit, joita sivulla on jotta pääsee kunnolla surffaamaaan verkossa kopiomalla sivun sisällä olevan linkin ja liittämällä sen kenttään ja painamalla avaa
     hrefs = []
     thtml = "<!DOCTYPE html>\n<html>\n    <body>\n"
-    soup = BeautifulSoup(html, 'lxml')
+    soup = BeautifulSoup(html, 'html.parser')
     for a in soup.find_all('a', href=True):
         hrefs.append(a['href'])
     #print(hrefs)
