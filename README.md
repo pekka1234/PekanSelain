@@ -4,7 +4,7 @@ Super nopea ja helppokäyttöinen internet selain
 ![oikea](https://github.com/pekka1234/PekanSelain/assets/62663286/22bdbfb7-dc40-4d76-8ac7-569ed63c9aa9)
 
 ## Käyttö
-Huomio: **tkinterhtml** ja **beautifulsoup** ja **urllib** moduuleja ei ole yleensä esiasennettu, joten: pip install... (Tiedostossa PythonJaModuuliVersiot.txt on oikeat versiot kaikille moduuleille)
+```pip install tkinterhtml```
 
 Kirjoita avautuvaan kentään sivun osoite
 
