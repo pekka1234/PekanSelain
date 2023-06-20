@@ -10,8 +10,6 @@ Lataa **python 3.8.10**, sitten lataa **pip 20.0.2**
 
 ```pip install urllib3==1.25.8```
 
-```pip install urllib3==1.25.8```
-
 ```pip install beautifulsoup4==4.8.2```
 
 Huomio: tkinter on todennäköisesti jo valmiiksi asennettu, kuitenkin sen versio on 8.6
