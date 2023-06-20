@@ -4,7 +4,7 @@ Super nopea ja helppokäyttöinen internet selain
 ![oikea](https://github.com/pekka1234/PekanSelain/assets/62663286/22bdbfb7-dc40-4d76-8ac7-569ed63c9aa9)
 
 ## Lataus
-Lataa python **3.8.10**, sitten lataa **pip**
+Lataa **python 3.8.10**, sitten lataa **pip 20.0.2**
 
 ```pip install tkinterhtml==0.7```
 
